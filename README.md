@@ -17,5 +17,10 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ---
 
+![image](https://github.com/user-attachments/assets/4f377a29-6d1b-46bd-b0b2-087d2b0ead1b)
+![image](https://github.com/user-attachments/assets/770bd341-24db-4973-a351-1b8d531ede4b)
+
+
+
 
 
